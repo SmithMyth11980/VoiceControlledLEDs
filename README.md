@@ -9,6 +9,7 @@ Create Voice Controlled LEDs using Gravity - DF2301Q Offline Voice Recognition S
 5. Power Supply - 5V & 10A
 
 ## Hardware and wiring diagram
+<img width="1411" height="620" alt="VoiceControlledLEDs_arduino_diagram" src="https://github.com/user-attachments/assets/be447bad-548d-4fe2-ac18-7fd9e235becf" />
 
 
 ## Troubleshooting
